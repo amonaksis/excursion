@@ -8,19 +8,14 @@ body {
   font-weight: normal;
   font-size: 50px;
   color: #ffffff;
-  text-align: center;
-  padding-bottom: 10px;
 }
 
-
-
-#link {
+.link--cta {
     color:aquamarine;
-    font-size: 16px;
-    
-    
+    font-size: 16px; 
 }
 
 #video {
+
 
 }
